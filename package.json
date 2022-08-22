@@ -1,0 +1,24 @@
+{
+  "name": "oce-matchmaker-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinimiseOCE/oce-matchmaker-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MinimiseOCE/oce-matchmaker-bot/issues"
+  },
+  "homepage": "https://github.com/MinimiseOCE/oce-matchmaker-bot#readme",
+  "dependencies": {
+    "deploy": "^1.0.3",
+    "discord.js": "^14.2.0",
+    "dotenv": "^16.0.1"
+  }
+}
